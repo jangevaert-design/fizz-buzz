@@ -23,6 +23,7 @@ public class FizzBuzz {
     if (status.isEmpty()) {
       status += value;
     }
+
     return status;
   }
 }
